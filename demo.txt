@@ -1,0 +1,29 @@
+slider\nby alligator
+welcome to slider
+a simple slideshow creator
+here's how it works
+a slideshow is a text file
+one line is one slide
+slider reads this\nand turns it into a PDF
+long lines of text automatically wrap
+or you can\nput newlines\nin slides\nusing \\n\nif you want
+lines starting with # are ignored
+it supports formatting options
+! ! is monospace
+< < is left aligned
+- - is small
+<-you can\ncombine them\ntoo
+<!-combining all three works well for code\n\nif (thing) {\n  printf("hello\\n");\n}
+it has some command line arguments
+ -d is dark mode
+you're seeing dark mode right now
+-dark mode = white on black\n\nlight mode = black on white\n(this is the default)
+ -4 is 4:3 mode
+this outputs slides in a 4:3 aspect ratio
+in case you're presenting on a projector from 2002
+slider is designed to be simple
+-simple = less decisions\n\n\n\n
+-simple = less decisions\n\nless decisions = focus\n\n
+-simple = less decisions\n\nless decisions = focus\n\nfocus = good presentations
+-<technical details\n\nwritten in C\n30kb standalone executable\nwindows, OSX and linux\n\n
+<!-options\n  -d dark mode\n  -4 4:3 mode\n\nformat codes\n  !  monospace\n  <  left aligned\n  -  small text
