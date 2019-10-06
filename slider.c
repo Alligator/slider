@@ -199,8 +199,8 @@ int main(int argc, char **argv) {
 	clock_t start = clock();
 
 	struct pdf_info info = {
-		.creator = "sliders",
-		.producer = "sliders",
+		.creator = "slider",
+		.producer = "slider",
 		.title = "presentation",
 	};
 
