@@ -1,7 +1,7 @@
 # 🍔 slider
 slider is a tiny tool for creating slideshows.
 
-See [demo.txt]() for an example of a slidehow and [demo.pdf]() for the output. This slideshow also serves as a quick introduction to slider.
+See [demo.txt](demo.txt) for an example of a slidehow and [demo.pdf](demo.pdf) for the output. This slideshow also serves as a quick introduction to slider.
 
 ## usage
     slider [options] file [output file]
